@@ -33,6 +33,5 @@ Menyediakan antarmuka interaktif bagi pengguna untuk:
 - Mengikuti langkah-langkah memasak
 
 ---
-
-> ## Catatan:
+## Catatan:
 **Petunjuk instalasi dan menjalankan project dapat ditemukan di folder masing-masing (Backend dan Frontend)**
